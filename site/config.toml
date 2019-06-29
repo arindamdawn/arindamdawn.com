@@ -1,0 +1,11 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Codecusp"
+enableRobotsTXT = true
+googleAnalytics = "UA-140307230-1"
+disqusShortname = "https-codecusp-com"
+
+
+[params.adsense]
+client = "ca-pub-1035784285560337"
+inArticleSlot = "5008648556"
