@@ -1,0 +1,8 @@
+<div class="no-underline pa3 bg-grey-1 br1 db raise w-100 h-100">
+	<h2 class="f5 b lh-title mb1 primary"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+	<!-- <p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+	<p class="mb0 f6">{{ .Description }}</p>
+	<div class="tags">
+		{{ partial "tags" .}}
+	</div>
+</div>

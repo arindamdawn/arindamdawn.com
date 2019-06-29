@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="center pv4 container">
+    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    {{.Description}}
+</div>
+
+<div class="center">
+
+    <ul class="pa3 container center blog-grid">
+        {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+        <div class="w-50-ns ph1-ns flex">
+            {{ .Render "post-card"}}
+        </div>
+        {{ end }}
+    </ul>
+    {{ partial "pagination" . }}
+</div>
+
+{{end}}

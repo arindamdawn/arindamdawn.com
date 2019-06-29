@@ -1,0 +1,45 @@
+<footer class="bg-black ph3 pv4 white">
+
+	<div class="mw7 center pt3 container">
+
+		<div class="measure-narrow center mb4">
+
+			<img src="/img/logo-white.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
+			<p class="f3 lh-title light-gray b tc mb2">Stay smarter & sharper</p>
+			<p class="tc word-normal">Subscribe to the codecusp newsletter to stay updated with our latest stories,
+				lessons, tips and more. No spams..ever 🤘</p>
+
+			{{ partial "newsletter-form" . }}
+
+
+			<div class="developer-info tc">
+				<p>You have reached dead bottom!</p>
+				<p>Built by <a href="{{.Site.Data.links.linkedin}}">Arindam Dawn</a> with ❤️ using <a href="{{.Site.Data.links.hugo}}">Hugo</a></p>
+				<p>Found an issue? 👉 <a href="{{ .Site.Data.links.github_codecusp }}" class="primary">submit a fix on github</a> </p>
+				<p>Copyright ©  {{ now.Format "2006"}} </p>
+			</div>
+
+		</div>
+	</div>
+
+</footer>
+
+{{ partial "svg" . }}
+
+<script src="/app.js"></script>
+
+<!-- Service worker register -->
+<script>
+    if("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+            navigator.serviceWorker.register("/sw.js").then(swReg => {}).catch(err => {
+                console.error('Service Worker Error', err);
+            });
+        });
+    }
+</script>
+
+
+</body>
+
+</html>

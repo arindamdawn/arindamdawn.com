@@ -1,0 +1,25 @@
+<nav class="sticky bg-white divider-grey z-3">
+
+	<div class="container flex justify-between items-center center">
+		<!-- Logo -->
+		<a href="/" class="pa3 db mr4 h-100 w4 flex-none pl0">
+			<img src="/img/logo.svg" alt="Codecusp logo" class="br0 db mb0 w-100" />
+		</a>
+
+		<!-- Primary Nav -->
+		<ul class="flex b grey-3 primary-nav">
+			<li><a href="/lessons" class="pa3 no-underline db">Lessons</a></li>
+
+			<li><a href="/tags" class="pa3 no-underline db">Tags</a></li>
+
+			<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
+
+			<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+		</ul>
+		<div class="hamburger pointer" id="hamburger-icon">
+			<div></div>
+		</div>
+		{{ partial "nav-mobile" }}
+	</div>
+
+</nav>

@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<article class="center pv4 article-container">
+  <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+  <div class="author-info grey-3">
+    <p class="mb0">Written by {{ .Params.Author }}</p>
+  </div>
+  <div class="flex justify-between grey-3 fs-xs">
+    <p>{{ .Date.Format "Jan 2, 2006" }} </p>
+    <p>Takes about {{ .ReadingTime }} minutes to read ⏱</p>
+  </div>
+  <hr>
+
+  <div class="cms">
+    <p>{{ .Description }}</p>
+    {{ partial "tags.html" .}}
+    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="blog-image"/>{{ end }}
+    {{ replace .Content "<!--adsense-->" (partial "adsense-inarticle.html" .) | safeHTML }}
+  </div>
+
+  <!-- Share -->
+  {{ partial "share.html" .}}
+
+  <!-- Disqus Comments -->
+  {{ template "_internal/disqus.html" . }}
+
+</article>
+
+{{ end }}

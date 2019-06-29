@@ -1,0 +1,17 @@
+// Font Styles
+.i         { font-style: italic; }
+.fs-normal { font-style: normal; }
+
+// Font Sizes
+.fs-xs{
+  font-size: var(--font-size-xs);
+}
+.fs-s{
+  font-size: var(--font-size-s);
+}
+.fs-m{
+  font-size: var(--font-size-m);
+}
+.fs-l{
+  font-size: var(--font-size-l);
+}

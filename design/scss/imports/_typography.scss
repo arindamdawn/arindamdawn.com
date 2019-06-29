@@ -1,0 +1,69 @@
+html {
+  font-size: var(--font-size);
+  background-color: var(--black);
+}
+
+
+body {
+  font-family: var(--font-family);
+  font-size: var(--spacing-medium);
+  line-height: var(--line-height);
+  font-weight: var(--body-font-weight);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--off-white);
+  color: var(--grey-4);
+ }
+
+p {
+  margin-bottom: var(--spacing-medium);
+}
+
+strong {
+  font-weight: var(--bold-font-weight);
+}
+
+em {
+  font-style: italic;
+}
+
+sup {
+  font-size: .6rem;
+  font-weight: 700;
+  vertical-align: super;
+}
+
+/* Measure is limited to ~66 characters */
+.measure {
+  max-width: 30em;
+}
+
+/* Measure is limited to ~80 characters */
+.measure-wide {
+  max-width: 34em;
+}
+
+/* Measure is limited to ~45 characters */
+.measure-narrow {
+  max-width: 25em;
+}
+
+/* Book paragraph style - paragraphs are indented with no vertical spacing. */
+.indent {
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+/* Combine this class with a width to truncate text (or just leave as is to truncate at width of containing element. */
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+

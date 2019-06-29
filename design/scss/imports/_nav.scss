@@ -1,0 +1,133 @@
+/* Hamburger Styles */
+
+.hamburger {
+    width: 40px;
+}
+
+.hamburger:after,
+.hamburger:before,
+.hamburger div {
+    background-color: var(--primary);
+    border-radius: 3px;
+    content: '';
+    display: block;
+    height: 5px;
+    margin: 7px 0;
+    transition: all .2s ease-in-out;
+}
+
+.hamburger.trigger:before {
+    transform: translateY(12px) rotate(135deg);
+}
+
+.hamburger.trigger:after {
+    transform: translateY(-12px) rotate(-135deg);
+}
+
+.hamburger.trigger div {
+    transform: scale(0);
+}
+
+/* Nav-Mobile Styles */
+
+.nav-mobile {
+    padding: 20px;
+    top: 60px;
+    left: 0;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.2s linear;
+}
+
+.nav-mobile li {
+    padding: var(--spacing-small);
+    font-size: var(--font-size-m);
+    a{text-decoration: none;}
+}
+
+.trigger+.nav-mobile {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+
+/* Media Queries */
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+    .hamburger,
+    .nav-mobile {
+        display: none !important;
+    }
+
+
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+    .hamburger,
+    .nav-mobile {
+        display: none !important;
+    }
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .hamburger,
+    .nav-mobile {
+        display: none !important;
+    }
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    .hamburger,
+    .nav-mobile {
+        display: none !important;
+    }
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    nav .primary-nav {
+        display: none !important;
+    }
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+    nav .primary-nav {
+        display: none !important;
+    }
+}

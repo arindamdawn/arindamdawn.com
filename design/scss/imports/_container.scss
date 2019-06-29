@@ -1,0 +1,12 @@
+.container{
+    max-width: 72rem;
+    width: 85%;
+    @include phone {
+        width: 90%;
+    }
+}
+
+.article-container {
+    max-width: 48rem;
+    width: 90%;
+}

@@ -1,0 +1,15 @@
+img {
+  max-width: 100%;
+}
+
+/* Remove border-radiius from full-width images */
+img:not(.w-100) {
+  border-radius: var(--border-radius);
+}
+
+.blog-image{
+  width: 40%;
+  @include phone {
+    width: 60%;
+  }
+}

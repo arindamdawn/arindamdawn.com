@@ -1,0 +1,20 @@
+<div class="pv5 pv6-l bg-center cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="container center ph3">
+    <div class="db mb3">
+      <div class="relative bg-fix-primary mb3">
+        <h1 class="f2 b di lh-title mb3 white mw6 bg-primary">
+          {{.title}}
+          {{ if .typedText }} <br> <span id="typed-text" class="bg-primary">{{ .typedText }}</span> {{ end }}
+        </h1>
+        
+      </div>
+      <div class="relative bg-fix-primary">
+        {{ if .subtitle }}
+        <p class="b f3 di lh-title mb3 white mw6 bg-primary">
+          {{.subtitle}}
+        </p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>

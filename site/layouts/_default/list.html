@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/main-banner.svg" "title" "Latest Posts") }}
+
+<div class="container blog-grid mv3 center">
+  {{ range (.Paginator 6).Pages.ByPublishDate.Reverse }}
+    <div class="grid-item">
+      {{ .Render "post-card" }}
+    </div>
+  {{ end }}
+  {{ partial "pagination" . }}
+</div>
+
+{{end}}

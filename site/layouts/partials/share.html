@@ -1,0 +1,33 @@
+{{ $title := .Title }}
+{{ $description := .Description }}
+{{ $url := printf "%s" .URL | absLangURL }}
+
+{{ $body := print $title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }}
+<div class="sharing tc center">
+  <hr>
+  <p>Found this post useful? Then don't forget to share within your community.</p>
+
+  <!-- Sharingbutton Facebook -->
+  <a href="http://www.facebook.com/sharer.php?u={{ $url }}" class="facebook" aria-label="share on Facebook">
+    <img src="/img/facebook.svg" alt="Facebook logo" />
+  </a>
+  <!-- Sharingbutton twitter -->
+  <a href="http://twitter.com/share?url={{ $url }}&text={{ $title }}&via={{with .Site.Social.twitter }}{{ . }}{{ end }}"
+    class="twitter" aria-label="share on Twitter">
+    <img src="/img/twitter.svg" alt="Facebook logo" />
+  </a>
+
+  <!-- Sharingbutton LinkedIn -->
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $url }}&amp;title={{ $title }};summary={{ $description }};source={{ $url }}"
+    target="_blank" rel="noopener" aria-label="">
+    <img src="/img/linkedin.svg" alt="LinkedIn logo" />
+
+  </a>
+
+
+
+  <!-- Sharingbutton WhatsApp -->
+  <a href="whatsapp://send?text={{ $title }}" target="_blank" rel="noopener" aria-label="">
+    <img src="/img/whatsapp.svg" alt="WhatsApp logo" />
+  </a>
+</div>
