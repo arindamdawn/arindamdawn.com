@@ -1,0 +1,46 @@
+.home-intro {
+    h1 {
+        font-size: 60px;
+    }
+
+    .subtitle {
+        font-size: 30px;
+    }
+
+    .personal-intro {
+        max-width: 80%;
+
+        @include phone {
+            max-width: 100%;
+        }
+    }
+
+    .action-buttons {
+        width: 500px;
+        @include phone {
+            width: 100%;
+        }
+    }
+}
+
+// Grid Layout styles
+
+.home-intro-grid {
+    @include display-grid;
+    @include grid-template-columns(1fr 1fr);
+    grid-gap: var(--grid-gap);
+
+    @include phone {
+        @include grid-template-columns(auto);
+    }
+
+    .image-section {
+        justify-self: center;
+    }
+
+    .action-buttons {
+        @include display-grid;
+        @include grid-template-columns(auto auto);
+        grid-gap: var(--grid-gap);
+    }
+}

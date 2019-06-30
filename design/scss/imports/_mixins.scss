@@ -5,7 +5,7 @@
 @mixin tablet {
     @media (min-width: 601px) and (max-width: 900px) { @content };
 }
-@mixin tablet-landscape {
+@mixin desktop {
     @media (max-width: 1200px) { @content };
 }
 
