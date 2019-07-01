@@ -2,8 +2,8 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Arindam Dawn"
 enableRobotsTXT = true
-googleAnalytics = "UA-140307230-1"
-disqusShortname = "https-codecusp-com"
+googleAnalytics = "UA-143116561-1"
+disqusShortname = "arindamdawn-com"
 
 [blackfriday]
   plainIDAnchors = true
