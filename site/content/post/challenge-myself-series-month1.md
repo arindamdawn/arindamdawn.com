@@ -22,7 +22,7 @@ I am starting in the month of July 2019 and over the next year, I will try track
 
 ## The challenges I am taking up this month
 
-This is the first month. So I am taking up two skills which are very dissimilar in nature but are the one in my wishlist for quite some time.
+This is the first month. So I am taking up two skills which are very dissimilar in nature but are the ones in my wishlist for quite some time.
 
 * **Typing fluidly on the keyboard without looking at it.**
    
