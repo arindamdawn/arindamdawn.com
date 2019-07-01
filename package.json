@@ -1,7 +1,8 @@
 {
-  "name": "codecusp",
+  "name": "arindam_dawn_blog",
+  "short_name": "arindam dawn blog",
   "version": "1.0.0",
-  "description": "Codecusp is a technology blog to share the latest and upcoming trends from the developer world",
+  "description": "Arindam Dawn's personal blog. Sharing experiences on technology, travel, fitness, music and art",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
