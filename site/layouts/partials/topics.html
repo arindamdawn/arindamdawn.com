@@ -1,6 +1,6 @@
 <ul class="flex-wrap">
-    {{ range .Params.tags }}
-    {{ with $.Site.GetPage "taxonomyTerm" (printf "tags/%s" (urlize .)) }}
+    {{ range .Params.topics }}
+    {{ with $.Site.GetPage "taxonomyTerm" (printf "topic/%s" (urlize .)) }}
     <a href="{{.Permalink | relURL }}"><span
         class="tag tag-{{anchorize .Title}} tag-sm">#{{ anchorize .Title}}</span></a>
     {{end}}

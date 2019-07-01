@@ -5,6 +5,10 @@ enableRobotsTXT = true
 googleAnalytics = "UA-140307230-1"
 disqusShortname = "https-codecusp-com"
 
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
 
 [params.adsense]
 client = "ca-pub-1035784285560337"

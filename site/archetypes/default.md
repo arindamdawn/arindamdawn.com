@@ -6,5 +6,5 @@ date: {{ .Date }}
 author: Arindam Dawn
 draft: false
 image:
-tags: []
+topics: []
 ---

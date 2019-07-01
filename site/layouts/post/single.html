@@ -12,8 +12,8 @@
   <hr>
 
   <div class="cms">
-    <p>{{ .Description }}</p>
-    {{ partial "tags.html" .}}
+    <!-- <p>{{ .Description }}</p> -->
+    {{ partial "topics.html" .}}
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="blog-image"/>{{ end }}
     {{ replace .Content "<!--adsense-->" (partial "adsense-inarticle.html" .) | safeHTML }}
   </div>

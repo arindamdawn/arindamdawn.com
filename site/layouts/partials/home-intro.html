@@ -1,20 +1,16 @@
-<section class="home-intro pv5">
+<section class="home-intro pv4">
     <div class="container center">
         <div class="home-intro-grid">
             <div class="grid-item">
-                <h1>Welcome</h1>
-                <p class="subtitle">To the Arindam Dawn blog</p>
+                <h1>{{.Title}}</h1>
+                <p class="subtitle">{{.Params.subtitle}}</p>
 
                 <p class="personal-intro">
-                    Hi! I am Arindam and this is my personal blog where I write about any interesting thing that pops up
-                    in
-                    my mind. Things like art, music, technology, fitness, fascinates me a lot so this is where I share
-                    my
-                    experiences.
+                    {{.Params.home_intro.intro_text}}
                 </p>
                 <div class="action-buttons">
-                    <button class="bg-primary white pa2 fs-m">Read my blog</button>
-                    <button class="default pa2 fs-m">View my Gallery</button>
+                    <button class="bg-primary white pa2 fs-m">{{.Params.home_intro.primary}}</button>
+                    <button class="default pa2 fs-m">{{.Params.home_intro.secondary}}</button>
                 </div>
             </div>
             <div class="grid-item image-section">
