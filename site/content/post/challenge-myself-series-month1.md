@@ -49,7 +49,7 @@ While it's true that it almost takes 10000 hours of practice to master something
 
 I find myself fortunate to come across a wonderful free course (most of the good things in this world comes free of cost!) while reading an article on [Medium](https://medium.com). The course is called [**Learning to learn**](https://www.coursera.org/learn/learning-how-to-learn/home/welcome). It is an online course on [Coursera](https://www.coursera.org). It changed my perception towards Maths, Science and learning in general. 
 
-## Why motivated me to do this?
+## What motivated me to do this?
 
 Over the years I have noticed that I have a trait to pick things up relatively quicker than most people such as playing the guitar, basic piano, photoshopping, web development, singing, photography, drawing etc. but I have the tendency to move to a different skill before forming a strong habit and I eventually discard it. 
 
