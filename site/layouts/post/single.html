@@ -13,7 +13,7 @@
 
   <div class="cms">
     <!-- <p>{{ .Description }}</p> -->
-    {{ partial "topics.html" .}}
+    {{ partial "topics" .}}
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="blog-image"/>{{ end }}
     {{ replace .Content "<!--adsense-->" (partial "adsense-inarticle.html" .) | safeHTML }}
   </div>

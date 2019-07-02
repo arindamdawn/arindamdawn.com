@@ -1,8 +1,8 @@
-<ul class="flex-wrap">
+<ul class="flex-wrap topics">
     {{ range .Params.topics }}
-    {{ with $.Site.GetPage "taxonomyTerm" (printf "topic/%s" (urlize .)) }}
+    {{ with $.Site.GetPage "taxonomyTerm" (printf "topics/%s" (urlize .)) }}
     <a href="{{.Permalink | relURL }}"><span
-        class="tag tag-{{anchorize .Title}} tag-sm">#{{ anchorize .Title}}</span></a>
+        class="tag tag-{{anchorize .Title}} tag-sm">{{ anchorize .Title}}</span></a>
     {{end}}
     {{end}}
   </ul>

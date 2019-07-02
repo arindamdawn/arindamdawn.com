@@ -96,7 +96,7 @@ gulp.task("clean", function() {
     .pipe(clean());
 });
 
-gulp.task("server", gulp.series("clean", "hugo", "sass", "js", "svg", (done) => {
+gulp.task("server", gulp.series("hugo", "sass", "js", "svg", (done) => {
   browserSync.init({
     server: {
       baseDir: "./dist"

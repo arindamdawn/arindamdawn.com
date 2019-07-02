@@ -5,6 +5,10 @@ enableRobotsTXT = true
 googleAnalytics = "UA-143116561-1"
 disqusShortname = "arindamdawn-com"
 
+[taxonomies]
+  topic = "topics"
+ 
+
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true

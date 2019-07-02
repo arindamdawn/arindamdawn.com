@@ -1,44 +1,13 @@
 .blog-grid {
     @include display-grid;
-    @include grid-template-columns(auto auto auto);
+    @include grid-template-columns(1fr 1fr 1fr);
     grid-gap: var(--grid-gap);
     @include phone {
         @include grid-template-columns(auto);
     }
     @include tablet {
-        @include grid-template-columns(auto auto);
+        @include grid-template-columns(1fr 1fr);
     }
-}
-
-
-
-.about-grid {
-    @include display-grid;
-    grid-gap: var(--grid-gap);
-    .text1{grid-area: text1};
-    .image1{grid-area: image1};
-    .text2{grid-area: text2};
-    .image2{grid-area: image2};
-    .text3{grid-area: text3};
-    .image3{grid-area: image3};
-    place-items: center;
-
-    grid-template-areas: 
-    'text1 image1'
-    'image2 text2'
-    'text3 image3';
-    img{
-        width: 100%;
-    }
-    @include phone {
-        grid-template-areas: 
-        'text1'
-        'image1'
-        'text2'
-        'image2'
-        'text3'
-        'image3';
-    }  
 }
 
 

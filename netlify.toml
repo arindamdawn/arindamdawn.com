@@ -10,12 +10,3 @@
 
 [context.deploy-preview]
   command = "yarn build-preview"
-
-[context.next.environment]
-  HUGO_BASEURL = "https://arindamdawn.com/"
-  HUGO_ENABLEGITINFO = "true"
-
-[context.production.environment]
-  HUGO_VERSION = "0.46"
-  HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
