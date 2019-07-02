@@ -33,6 +33,7 @@ if (process.env.HUGO_VERSION) {
   hugoBin = "hugo -b $URL";
 }
 
+
 if (process.env.DEBUG) {
   defaultArgs.unshift("--debug");
 }
