@@ -5,6 +5,8 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   HUGO_VERSION = "0.46"
+  HUGO_BASEURL = "https://arindamdawn.com/"
+  HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
   command = "yarn build-preview"
