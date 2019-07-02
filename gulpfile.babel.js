@@ -30,7 +30,7 @@ const browserslist = [
 var hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
 
 if (process.env.HUGO_VERSION) {
-  hugoBin = "hugo -b $URL";
+  hugoBin = "hugo -b https://arindamdawn.com";
 }
 
 
