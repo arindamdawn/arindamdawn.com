@@ -30,7 +30,7 @@ const browserslist = [
 var hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
 
 if (process.env.HUGO_VERSION) {
-  hugoBin = "hugo";
+  hugoBin = "hugo -b $URL";
 }
 
 if (process.env.DEBUG) {
