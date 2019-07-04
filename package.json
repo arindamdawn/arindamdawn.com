@@ -1,7 +1,7 @@
 {
   "name": "arindam_dawn_blog",
   "short_name": "arindam dawn blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Arindam Dawn's personal blog. Sharing experiences on technology, travel, fitness, music and art",
   "main": "index.js",
   "scripts": {
