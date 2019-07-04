@@ -1,5 +1,5 @@
 ---
-title: "Wake up the good designer in you – How good design can change your life?"
+title: "Wake up the good designer in you – How good design can change your life"
 description: ABCD - Any body can design. So can you! Read how you can make your work look more appealing by knowing some design basics.
 lastmod: 2019-07-03T21:52:39+05:30
 date: 2019-07-03T21:52:39+05:30
@@ -41,8 +41,7 @@ Good design can **motivate people**. It reveals not only your hard work and effo
 
 ## How to be better at design?
 
-Oh yeah! Lot’s of philosophical talk. Coming straight to the point. 
-Here are some things you can implement in your next project, presentation, invitation card,brochure, website, resume or whatever you will be working on:
+Oh yeah! Lot’s of philosophical talk. Coming straight to the point. Here are some things you can implement in your next project, presentation, invitation card, brochure, website, resume or whatever you will be working on:
 
 **Use better fonts**
 Yes use of proper fonts make a lot of difference. Here are some resources you can take a look to get some inspiration on fonts and typography
@@ -77,6 +76,14 @@ Here are some great resources that will assist you in finding top quality images
 * [Pixabay](https://pixabay.com/) - Get stunning stock images for free.
 * [Pexels](https://pexels.com) - My goto resource for high quality stock images. I simply love this site.
 
+**Some great design inspiration resources**
+
+Don't feel ashamed in copying good content what others have created. That servers as a good starting point and it ensures good quality as well. It's okay to fall short of ideas and not being able to create professional looking design content. In this era of internet, we can't complain of anything. There is an ocean of resources available. I would recommend checking some of these resources just for fun and triggering your design mind.
+
+* [Dribbble](https://dribbble.com/) - One of the best website for digital design inspirations. Simply search what you are looking for and you will be presented with a wide array of beautiful works.
+* [DeviantArt](https://www.deviantart.com/) - This is probably the largest art and design gallery.
+* [LogoPond](https://logopond.com/) - If you are looking for logo and branding inspirations you can check this website out. 
+
 
 ## Still looking for a shortcut to create good design content?
 
@@ -100,6 +107,7 @@ Lastly, if you are looking for a place that will help design stunning presentati
 
 
 I admire Steve Jobs a lot and he rightly said
+
 > Design is not just what it looks like and feels like. Design is how it works.
 
 Here is a rare footage of him speaking about good design. Enjoy!
@@ -107,3 +115,8 @@ Here is a rare footage of him speaking about good design. Enjoy!
 {{< youtube sPfJQmpg5zk >}}
 
 
+
+## Sidenote
+
+I have also started writing about my journey where I try challenging myself to get good at two skills every month. 
+[Check out my first post on this series]({{< ref "/post/two-skills-a-month-challenge-1.md" >}})

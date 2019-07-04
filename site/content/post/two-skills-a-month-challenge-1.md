@@ -1,6 +1,6 @@
 ---
 title: "Challenging myself to be a pro at typing and developing a pitch-perfect ear"
-description: My first post on the two challenges a month series. I am starting with becoming fluid at typing and having a pitch perfect ear challenge. 
+description: My first post on the two skills a month challenge. I am starting with becoming fluid at typing and having a pitch perfect ear challenge.
 lastmod: 2019-07-01T11:18:23+05:30
 date: 2019-07-01T11:18:23+05:30
 author: Arindam Dawn
