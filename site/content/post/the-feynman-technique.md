@@ -31,7 +31,7 @@ Feynman customized his own ways to learn and master subjects and his technique t
 * Spend some time to understand that topic from any available reference - books, articles or the web.
 * Jot down in plain and simple words whatever you have understood about that subject in that blank sheet without using reference.
 
-**Explain the subject to someone or act if you are teaching it**
+**Explain the subject to someone or act as if you are teaching it**
 
 * Teaching is one of the best ways to develop a solid foundation of a subject. Try explaining the subject or topic to a friend, colleague, kid or if you pretend to teach it to a classroom. Feynman emphasises on keeping it as simple as possible.
 * If you are not able to explain the concepts in layman's terms, then you don't have a strong grasp of it.
@@ -43,6 +43,12 @@ Feynman customized his own ways to learn and master subjects and his technique t
 **Make it simple and use analogies**
 
 * Feynman was famous for being able to explain difficult physics concepts in the simplest of terms using analogies. Analogies are a powerful tool to understand key concepts and keep them embedded for a long period of time. 
+
+While in my school and even during my college days, I had this confusion of cations and anions. It's quite simple but I often used to get confused while determining which one is positive and which is negatively charged. 
+While reading the book 'A mind for numbers', I came across a simple analogy which can easily clear the confusion. 
+Cation can be thought of as a 'Cat'. Now cat has 'paws' so cations are positive. While anions can be thought of as 'Onions' which tend to make us cry so they are negative. I know it's quite silly but these funny analogies stick to our brain for an indefinite period contrary to lengthy bookish explanations.
+
+> "What I cannot create, I do not understand." - Richard Feynman
 
 Feynman's Technique makes use of these 4 simple yet powerful steps to learn virtually anything. 
 
