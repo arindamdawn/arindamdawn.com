@@ -63,7 +63,7 @@ We, millennials are blessed with technology. Mr Feynman's precious videos can be
 
 Feynman was a cheerful, fun-loving person who used to teach his class while playing the drums! His contributions to Science is immaculate and we all can learn so much from his technique. I am fortunate to have been able to learn about him and I shall continue my quest towards learning more about his techniques and wisdom. I hope you shall be inspired as well to learn anything you desire now that you know how you can eventually learn anything. Keep the lamp burning!
 
-{{< youtube VdYujzyaX68&t >}}
+{{< youtube VdYujzyaX68 >}}
 
 ## Sidenote
 
