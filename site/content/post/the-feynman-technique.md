@@ -11,9 +11,9 @@ topics: ["productivity"]
 
 > “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” - Richard Feynman
 
-It's been more than a week and I haven't written anything on my blog yet! And I was aspiring to be a good writer! Part of the credit to persuade me away from posting a blog was a phenomenal book I happened to read this week which goes by the name [Atomic Habits](https://amzn.to/2lzNqMt) a worldwide bestseller beautifully written by James Clear. 
+It's been more than a week and I haven't written anything on my blog yet! I was kind of engrossed in a  phenomenal book I happened to read this week which goes by the name [Atomic Habits](https://amzn.to/2lzNqMt) a worldwide bestseller written by James Clear. 
 
-Over the past few weeks, I've been inclined and fascinated towards the idea of how we learn and how habits are formed. In that expedition, I finished a course on Learning to Learn by Barbara Oakley on Coursera, read some awesome books - [The power of Habits by Charles Duhigg](https://amzn.to/2lceJwf), [A mind for Numbers](https://amzn.to/2lcGN2w) by Barbara Oakley and Atomic Habits which I just finished reading.
+Over the past few weeks, I've felt myself inclined and fascinated towards the idea of how we learn and how habits are formed. In that expedition, I finished a course on Learning to Learn by Barbara Oakley on Coursera, read some awesome books - [The power of Habits by Charles Duhigg](https://amzn.to/2lceJwf), [A mind for Numbers](https://amzn.to/2lcGN2w) by Barbara Oakley and Atomic Habits which I just finished reading.
 
 While diving deep into the learning to learn the universe, I came across this genius and started reading more and more on him. He is [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman), a physicist, who won the Nobel prize in 1965 for his contribution in Quantum Electrodynamics. I remembered hearing his name while studying Physics in college where I didn't bother to pay much attention to his formulas and concepts. While reading my recent books,  I noticed his quotes over and over again and they fascinated me. His quotes have a very deep meaning. I started reading more about him and his surprisingly simple and jargon-free teaching techniques. Besides being a pioneer in the field of science, he was a great teacher. He was even called **"The Great Explainer"**. He was famous for being able to explain extremely difficult subjects in plain layman's terms. He often notoriously used to challenge fellow researchers, professors to explain difficult concepts in easy to understand words without the use of unfriendly jargons. He mastered his exams while studying at Princeton University by using his own simple techniques which eventually became widely popular as the Feynman Technique.
 
@@ -69,5 +69,5 @@ Feynman was a cheerful, fun-loving person who used to teach his class while play
 
 Fascinated by Mr. Feynman, I've picked up one of his books [Surely you're Joking Mr Feynman: Adventures of a Curious Character](https://amzn.to/2jWNt4C). It's a fun filled adveturous book based on his life written by Feynman himself.
 
-Other book that I am reading this week is [Unshakeable](https://amzn.to/2jWOyJI) a best selling book by Tony Robbins.
+Another book I am reading this week is [Unshakeable](https://amzn.to/2jWOyJI) a best selling book by Tony Robbins based on the basics of finance.
 
