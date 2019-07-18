@@ -52,6 +52,10 @@ Cation can be thought of as a 'Cat'. Now cat has 'paws' so cations are positive.
 
 Feynman's Technique makes use of these 4 simple yet powerful steps to learn virtually anything. 
 
+Here's a pen sketch I did of the great man as a small token of thanks 😊
+
+{{< instagram B0EBqTcAb_D >}}
+
 {{<figure src= "https://www.tradebrains.in/wp-content/uploads/2019/02/the-feynman-technique-safal-niveshak.jpeg" caption= "Image credits - Safal Niveshak" class="tc">}}
 
 We, millennials are blessed with technology. Mr Feynman's precious videos can be found on Youtube. Here's one where he speaks about light.
