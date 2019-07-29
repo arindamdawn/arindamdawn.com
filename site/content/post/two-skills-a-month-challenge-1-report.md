@@ -59,7 +59,7 @@ It was immensely exciting to be able to track my progress and learn something ne
 
 ## Books that I read this month
 
-To conclude, I would like to mention the books that I have been reading throughout this month. I have started reading regularly which was once occasional fancy stuff. The books are in no specific order and belong to a wide range of genre. I loved all of them and I am immensely grateful to the authors, bloggers, YouTubers who have indirectly recommended these marvels. I will provide the links (affiliate) to purchase them in case you're interested. You can definitely give one of them a try.
+To conclude, I would like to mention the books that I have been reading throughout this month. I have started reading regularly which was an once occasional fancy stuff. The books are in no specific order and belong to a wide range of genre. I loved all of them and I am immensely grateful to the authors, bloggers, YouTubers who have indirectly recommended these marvels. I will provide the links (affiliate) to purchase them in case you're interested. You can definitely give one of them a try.
 
 - Atomic Habits by James Clear. [Buy](https://amzn.to/2ynDjxf)
 - Surely you're Joking Mr Feynman by Richard Feynman. [Buy](https://amzn.to/2YuBQA3)
