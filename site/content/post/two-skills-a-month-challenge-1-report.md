@@ -12,7 +12,7 @@ topics: ["productivity"]
 > “THE FRAMEWORK: • Identify the routine • Experiment with rewards • Isolate the cue • Have a plan”
 > ― Charles Duhigg, The Power Of Habit: Why We Do What We Do In Life And Business
 
-I started the month of July 2019 with to fresh zeal to write more, read more and exploit my learning skills. I began a 'two skills a month challenge' where I decided to take up tasks that I may mould into skills and develop long term memory for it. I started with typing and being able to identify musical notes by listening which is popularly known as developing a pitch-perfect year.
+I started the month of July 2019 with a fresh zeal to write more, read more and exploit my learning skills. I began a 'two skills a month challenge' where I decided to take up tasks that I may mould into skills and develop long term memory for it. I started with typing and being able to identify musical notes by listening which is popularly known as developing a pitch-perfect year.
 [Here]({{< ref "/post/two-skills-a-month-challenge-1.md" >}}) is a link to my article where I wrote while taking up the challenge.
 
 To give you a brief insight about my result, I have been able to achieve my typing skills goal (I can type now without looking at the keyboard) but I did not perform well in my second goal. I shall try to explain the reasons and the individual path taken towards the respective skills.
@@ -61,13 +61,12 @@ It was immensely exciting to be able to track my progress and learn something ne
 
 To conclude, I would like to mention the books that I have been reading throughout this month. I have started reading regularly which was once occasional fancy stuff. The books are in no specific order and belong to a wide range of genre. I loved all of them and I am immensely grateful to the authors, bloggers, YouTubers who have indirectly recommended these marvels. I will provide the links (affiliate) to purchase them in case you're interested. You can definitely give one of them a try.
 
-- Atomic Habits by James Clear. [Buy](https://amzn.to/2ynDjxf) 
-- Surely you're Joking Mr Feynman by Richard Feynman. [Buy](https://amzn.to/2YuBQA3) 
-- Unshakeable by Tony Robbins. [Buy](https://urlzs.com/9uB2B) 
-- The Checklist Manifesto. [Buy](https://amzn.to/2MxFjLZ) 
-- Moonwalking with Einstein. [Buy](https://amzn.to/2YrKqiT) 
+- Atomic Habits by James Clear. [Buy](https://amzn.to/2ynDjxf)
+- Surely you're Joking Mr Feynman by Richard Feynman. [Buy](https://amzn.to/2YuBQA3)
+- Unshakeable by Tony Robbins. [Buy](https://urlzs.com/9uB2B)
+- The Checklist Manifesto. [Buy](https://amzn.to/2MxFjLZ)
+- Moonwalking with Einstein. [Buy](https://amzn.to/2YrKqiT)
 
 I am excited to write about my new 'two skills a month challenge' soon!
-
 
 {{<figure src= "https://media.giphy.com/media/26gJA33fWTg7PlD56/giphy.gif" caption= "More to come..." class="tc">}}
