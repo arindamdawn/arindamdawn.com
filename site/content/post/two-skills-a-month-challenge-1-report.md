@@ -12,7 +12,7 @@ topics: ["productivity"]
 > “THE FRAMEWORK: • Identify the routine • Experiment with rewards • Isolate the cue • Have a plan”
 > ― Charles Duhigg, The Power Of Habit: Why We Do What We Do In Life And Business
 
-I started the month of July 2019 with a fresh zeal to write more, read more and exploit my learning skills. I began a 'two skills a month challenge' where I decided to take up tasks that I may mould into skills and develop long term memory for it. I started with typing and being able to identify musical notes by listening which is popularly known as developing a pitch-perfect year.
+I started the month of July 2019 with a fresh zeal to write more, read more and exploit my learning skills. I began a 'two skills a month challenge' where I decided to take up tasks that I may mould into skills and develop long term memory for it. I started with **typing** and **being able to identify musical notes by listening** which is popularly known as developing a **pitch-perfect** ear.
 [Here]({{< ref "/post/two-skills-a-month-challenge-1.md" >}}) is a link to my article where I wrote while taking up the challenge.
 
 To give you a brief insight about my result, I have been able to achieve my typing skills goal (I can type now without looking at the keyboard) but I did not perform well in my second goal. I shall try to explain the reasons and the individual path taken towards the respective skills.
