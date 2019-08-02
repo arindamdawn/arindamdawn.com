@@ -14,7 +14,7 @@ topics: ["learning", "productivity"]
 
 I have been recently reading few interesting books, articles and watching videos on memory and happened to know about something known as a **[Memory Championship](https://en.wikipedia.org/wiki/World_Memory_Championships)** where **memory athletes** compete to solve various memory challenges. I took up the popular book '[Moonwalking with Einstein](https://en.wikipedia.org/wiki/World_Memory_Championships)' by Joshua Foer where he writes about journey from being a journalist to becoming a memory athlete and ultimately winning the US National Memory competition within a span of 1 year. It was a fascinating read and shows how a normal, 'not so gifted' person with sufficient practice can learn how to store tons of information in memory without forgetting.
 
-Check out this beautiful TED talk by Joshua. 
+Check out this beautiful TED talk by Joshua.
 
 {{< youtube U6PoUg7jXsA >}}
 
@@ -55,11 +55,10 @@ To be frank, I am not aiming for any kind of career oriented goals to learn Fren
 
 I am also reading a [book](https://amzn.to/2KmjOuu) by Benny Lewis which I think might provide good insights to learning a foreign language.
 
-Although I am not very highly inclined in learning French as I neither have any plans to tour France or any French speaking nation in near future nor I am aim to take up a job that requires my french proficiency, but it just an inner spark to try learning the basics of a popular foreign language using the 20 hour rule which I recently became a fan of.
+Although I am not very highly inclined in learning French as I neither have any plans to tour France or any French speaking nation in near future nor I am aiming to take up a job that requires my french proficiency, but it just an inner spark to try learning the basics of a popular foreign language using the 20 hour rule which I recently became a fan of.
 
 I would love to extend my knowledge to proficiency if I am able to grasp the basics within my alloted time-frame. And who knows someday, somewhere these small chunks of skills or rather the effort taken in attaining the skills might open up new doors in distant future.
 
 I would be sharing my approaches towards these individual skills as well my progress report at the end of this month. Hope to have an interesting month of learning ahead!
-
 
 {{<figure src= "https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" caption= "Get Set Go..." class="tc">}}
