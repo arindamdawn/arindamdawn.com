@@ -12,7 +12,11 @@ topics: ["learning", "productivity"]
 > "A man's real possession is his memory. In nothing else is he rich, in nothing else is he poor."
 > --Alexander Smith
 
-I have been recently reading few interesting books, articles and watching videos on memory and happened to know about something known as a **Memory Championship** where **memory athletes** compete to solve various memory challenges. I took up the popular book 'Moonwalking with Einstein' by Joshua Foer where he writes about journey from being a journalist to becoming a memory athlete and ultimately winning the US National Memory competition within a span of 1 year. It was a fascinating read and shows how a normal, 'not so gifted' person with sufficient practice can learn how to store tons of information in memory without forgetting.
+I have been recently reading few interesting books, articles and watching videos on memory and happened to know about something known as a **[Memory Championship](https://en.wikipedia.org/wiki/World_Memory_Championships)** where **memory athletes** compete to solve various memory challenges. I took up the popular book '[Moonwalking with Einstein](https://en.wikipedia.org/wiki/World_Memory_Championships)' by Joshua Foer where he writes about journey from being a journalist to becoming a memory athlete and ultimately winning the US National Memory competition within a span of 1 year. It was a fascinating read and shows how a normal, 'not so gifted' person with sufficient practice can learn how to store tons of information in memory without forgetting.
+
+Check out this beautiful TED talk by Joshua. 
+
+{{< youtube U6PoUg7jXsA >}}
 
 For this month's challenge I've decided to test my abilities to acquire two skills that will test my memory and help me understand my limits and try pushing it further. Whether or not I'll be able to achieve my goals is uncertain, but I am certain, the miro journey towards achieving these micro goals will make me do some real memory weightlifting.
 
