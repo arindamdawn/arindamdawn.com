@@ -18,7 +18,7 @@ Check out this beautiful TED talk by Joshua.
 
 {{< youtube U6PoUg7jXsA >}}
 
-For this month's challenge I've decided to test my abilities to acquire two skills that will test my memory and help me understand my limits and try pushing it further. Whether or not I'll be able to achieve my goals is uncertain, but I am certain, the miro journey towards achieving these micro goals will make me do some real memory weightlifting.
+For this month's challenge I've decided to test my abilities to acquire two skills that will test my memory and help me understand my limits and try pushing it further. Whether or not I'll be able to achieve my goals is uncertain, but I am certain, the my journey towards achieving these micro goals will make me do some real memory weightlifting.
 
 ## Skill 1 - Memorize a shuffled deck of cards
 
