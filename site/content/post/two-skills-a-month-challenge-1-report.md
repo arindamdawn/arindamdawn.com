@@ -33,6 +33,8 @@ I came across this wonderful website [typing.com](www.typing.com) which helps yo
 
 Though being able to type at decent speeds in an auto-pilot mode is not that an immense achievement to brag about, I believe it has boosted my morale a lot and I can already see the benefits. The good thing about this skill is that I don't need to force myself to practice every day once my challenge period gets over. I, anyways spend most of my time in front of my laptop typing something or the other. So continued practice won't be a challenge at all.
 
+<!--articleAd-->
+
 ## Pitch Perfect Ear - Being able to identify musical notes by listening to it.
 
 Well, I was a tad overconfident while taking up this particular skill, to be frank. I did not have a clear idea of what I was trying to achieve. I initially came across a website (which is quite useful) called [tonedear](www.tonedear.com) where you can practice improving your listening abilities by training your ear. I assumed that being able to identify all notes correctly in this particular website would be enough to certify myself as someone who has a pitch-perfect ear! I had no idea and I was 100% wrong in this case.

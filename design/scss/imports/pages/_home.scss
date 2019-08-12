@@ -1,25 +1,36 @@
 .home-intro {
+    background-image: url("/img/background-pattern.png"), linear-gradient(141deg, var(--lightBlue) 0%, var(--lightPurple) 100%);
+    background-size: 70px auto; 
+    color: var(--white);
+    text-align: center;
+    margin: 0 auto;
+    clip-path: polygon(0 0, 100% 0%, 100% 85%, 0 98%);
+    padding-bottom: 5%;
+    @include phone {
+        padding-bottom: 20%;
+    }
     h1 {
-        font-size: 60px;
-    }
-
-    .subtitle {
-        font-size: 30px;
-    }
-
-    .personal-intro {
-        max-width: 80%;
-
+        font-size: 70px;
+        font-weight: 600;
         @include phone {
-            max-width: 100%;
+            font-size: 35px;
         }
     }
 
-    .action-buttons {
-        width: 500px;
-
+    .subtitle {
+        font-size: 35px;
         @include phone {
-            width: 100%;
+            font-size: 22px;
+        }
+    }
+
+    .personal-intro {
+        font-size: 20px;
+        max-width: 80%;
+        margin: 0 auto;
+        @include phone {
+            font-size: 18px;
+            width: 95%
         }
     }
 
@@ -29,7 +40,7 @@
 
 .home-intro-grid {
     @include display-grid;
-    @include grid-template-columns(1fr 1fr);
+    @include grid-template-columns(1fr);
     grid-gap: var(--grid-gap);
 
     @include phone {
@@ -44,5 +55,20 @@
         @include display-grid;
         @include grid-template-columns(auto auto);
         grid-gap: var(--grid-gap);
+    }
+}
+
+.blog-grid {
+    .grid-item {
+        @include box-shadow(0, 0, 6px, 3px, rgba(0, 0, 0, 0.075));
+        background-color: var(--lightYellow);
+    }
+
+    .grid-item:nth-child(odd) {
+        transform: rotate(1.5deg);
+    }
+
+    .grid-item:nth-child(even) {
+        transform: rotate(-1.5deg);
     }
 }

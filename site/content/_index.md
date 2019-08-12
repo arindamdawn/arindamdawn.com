@@ -1,10 +1,10 @@
 ---
 site_title: Arindam Dawn | Artist | Musician | Learning to learn things
-title: Welcome
-subtitle: to Arindam Dawn's blog
+title:  Arindam Dawn's Blog
+subtitle: Taking new learning challenges each month
 image: /img/main-banner.svg
-home_intro:
-  intro_text: Hi! I am Arindam and this is my personal blog where I write about any interesting thing that pops up in my mind. I prefer calling it my storybook. Things like art, music, technology, fitness, fascinates me a lot so this is where I share my experiences. 
+home_intro: 
+  intro_text: I challenge myself every month in learning two skills and sharing my analysis and research. I also write about topics that fascinates me and contribute towards sharing whatever wisdom I possess.
   primary: Read my Blog
   secondary: View my gallery
 ---

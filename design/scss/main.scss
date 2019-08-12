@@ -1,71 +1,74 @@
 
 /* External Library Includes */
-@import './imports/_reset';
+@import './imports/utils/_reset';
 
 /* Modules */
-@import './imports/_mixins';
-@import './imports/_box-sizing';
-@import './imports/_images';
-@import './imports/_background-size';
-@import './imports/_background-position';
-@import './imports/_outlines';
-@import './imports/_borders';
-@import './imports/_border-radius';
-@import './imports/_border-style';
-@import './imports/_border-widths';
-@import './imports/_border-colors';
-@import './imports/_coordinates';
-@import './imports/_clears';
-@import './imports/_display';
-@import './imports/_flexbox';
-@import './imports/_floats';
-@import './imports/_font-style';
-@import './imports/_font-weight';
-@import './imports/_forms';
-@import './imports/_heights';
-@import './imports/_line-height';
-@import './imports/_links';
-@import './imports/_lists';
-@import './imports/_max-widths';
-@import './imports/_widths';
-@import './imports/_overflow';
-@import './imports/_position';
-@import './imports/_opacity';
-@import './imports/_spacing';
-@import './imports/_text-decoration';
-@import './imports/_text-align';
-@import './imports/_text-transform';
-@import './imports/_type-scale';
-@import './imports/_typography';
-@import './imports/_utilities';
-@import './imports/_visibility';
-@import './imports/_white-space';
-@import './imports/_vertical-align';
-@import './imports/_states';
-@import './imports/_z-index';
-@import './imports/_styles';
-@import './imports/_buttons';
-@import './imports/_svg';
-@import './imports/_cms';
-@import './imports/_nav';
-@import './imports/_word-break';
-@import './imports/_tag';
-@import './imports/_footer';
-@import './imports/syntax';
-@import './imports/grid-layout';
-@import './imports/container';
+@import './imports/utils/_mixins';
+@import './imports/utils/_box-sizing';
+@import './imports/utils/_images';
+@import './imports/utils/_background-size';
+@import './imports/utils/_background-position';
+@import './imports/utils/_outlines';
+@import './imports/utils/_borders';
+@import './imports/utils/_border-radius';
+@import './imports/utils/_border-style';
+@import './imports/utils/_border-widths';
+@import './imports/utils/_border-colors';
+@import './imports/utils/_coordinates';
+@import './imports/utils/_clears';
+@import './imports/utils/_display';
+@import './imports/utils/_flexbox';
+@import './imports/utils/_floats';
+@import './imports/utils/_font-style';
+@import './imports/utils/_font-weight';
+@import './imports/utils/_forms';
+@import './imports/utils/_heights';
+@import './imports/utils/_line-height';
+@import './imports/utils/_links';
+@import './imports/utils/_lists';
+@import './imports/utils/_max-widths';
+@import './imports/utils/_widths';
+@import './imports/utils/_overflow';
+@import './imports/utils/_position';
+@import './imports/utils/_opacity';
+@import './imports/utils/_spacing';
+@import './imports/utils/_text-decoration';
+@import './imports/utils/_text-align';
+@import './imports/utils/_text-transform';
+@import './imports/utils/_type-scale';
+@import './imports/utils/_typography';
+@import './imports/utils/_utilities';
+@import './imports/utils/_visibility';
+@import './imports/utils/_white-space';
+@import './imports/utils/_vertical-align';
+@import './imports/utils/_states';
+@import './imports/utils/_z-index';
+@import './imports/utils/_buttons';
+@import './imports/utils/_svg';
+@import './imports/utils/_cms';
+@import './imports/utils/_nav';
+@import './imports/utils/_word-break';
+@import './imports/utils/_tag';
+@import './imports/utils/_footer';
+@import './imports/utils/syntax';
+@import './imports/utils/grid-layout';
+@import './imports/utils/container';
 
 
 /* Variables */
 /* Importing here will allow you to override any variables in the modules */
-@import './imports/_colors';
-@import './imports/_variables';
+@import './imports/utils/_colors';
+@import './imports/utils/_variables';
+
+/* Global styles */
+@import './imports/_styles';
 
 /* Debugging */
-@import './imports/_debug-children';
+@import './imports/utils/_debug-children';
 
 /* Uncomment out the line below to help debug layout issues */
 /* @import './imports/_debug'; */
 
 /* Pages */
 @import './imports/pages/home';
+@import './imports/pages/article';
