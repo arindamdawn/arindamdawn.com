@@ -55,10 +55,10 @@ One of the events in the memory championship event is to memorize a deck of card
 First I created a memory palace in my mind. It needs to be a place that you know very well and can easily walk through the place in your mind. I selected my way from our society entrance gate to my rooms. I needed 17 places to store all the cars. Each place will store 3 cards and one card is left at the end which can me remembered easily.
 
 Now cards have four categories. I assigned different categories of people for them such as 
- - ♥ represents friends and family (hearts for love).
- - ♠ represents actors
- - ♣ represents sports persons and
- - ♦ represents entrepreneurs and wealthy people (diamonds for wealth)
+- ♥ represents friends and family (hearts for love).
+- ♠ represents actors
+- ♣ represents sports persons and
+- ♦ represents entrepreneurs and wealthy people (diamonds for wealth)
 
 Now each person needs to be imagined doing an action with an object. Here is how I alloted animated characters to my ♣ cards (The more exaggerated you can imagine, the better you can remember).
 
