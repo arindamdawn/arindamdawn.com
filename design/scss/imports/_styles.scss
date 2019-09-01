@@ -27,23 +27,23 @@ body {
 }
 
 iframe {
-    margin: 0 auto!important;
+    margin: 0 auto !important;
 }
 
 .cover-area {
     background-image: url("/img/background-pattern.png"), linear-gradient(141deg, var(--lightBlue) 0%, var(--lightPurple) 100%);
-    background-size: 70px auto; 
+    background-size: 70px auto;
     color: var(--white);
     text-align: center;
     margin: 0 auto;
     clip-path: polygon(0 0, 100% 0%, 100% 85%, 0 98%);
     padding-bottom: 5%;
+
     @include phone {
         padding-bottom: 20%;
     }
 }
 
 footer {
-    background-image: url("/img/wave.svg");
     background-size: cover;
 }
