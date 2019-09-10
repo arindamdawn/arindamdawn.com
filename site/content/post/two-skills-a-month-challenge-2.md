@@ -1,6 +1,6 @@
 ---
 title: "Learning to memorize a shuffled deck of playing cards within 5 mins and mastering French basics"
-description: "Stepping into the shoes of a memory athelete this month to explore my memory threshold and dive into some new language learning for the 1st time."
+description: "Stepping into the shoes of a memory athlete this month to explore my memory threshold and dive into some new language learning for the 1st time."
 lastmod: 2019-08-02T00:34:02+05:30
 date: 2019-08-02T00:34:02+05:30
 author: Arindam Dawn
