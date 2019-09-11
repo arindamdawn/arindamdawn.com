@@ -62,7 +62,7 @@ I have explored many things such as guided meditation apps and other techniques,
 
 There are numerous kinds of meditation and every cult has their own unique way of defining it. The important part is spending some time with oneself detached from worldly responsibilities.
 
-I hope you I was able to provide some insights about the skills that I am trying to pursue this month. I shall share more details at the end of the month regarding my experiences and progress.
+I hope that I was able to provide some insights about the skills that I am trying to pursue this month. I will share more details at the end of the month regarding my experiences and progress.
 
 I slightly went off track this month and was not able to maintain my daily practice streak. I am still learning to learn!
 
