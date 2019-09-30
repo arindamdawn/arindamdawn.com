@@ -36,7 +36,7 @@ The beginner tutorials are very simple and fun. I am still on my way to make a d
 
 {{<figure src= "https://images.unsplash.com/photo-1499728603263-13726abce5fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" caption= "Being mindful" class="tc">}}
 
-Whenever I used to think about meditation, pictures of people sitting alone on a hill top or a saint came to my mind. So it seemed impossible for me to get into the habit of meditation. It seemed like it requires a lot of effort to put in. After reading the very popular book 'An Autobiography of a Yogi', I thought of trying to spend some time being mindful. 
+Whenever I used to think about meditation, pictures of people sitting alone on a hill top or a saint came to my mind. So it seemed impossible for me to get into the habit of meditation. It seemed like it requires a lot of effort to put in. After reading the very popular book '[An Autobiography of a Yogi](https://www.ananda.org/autobiography/)', I thought of trying to spend some time being mindful. 
 
 I decided to spend some 15-20 mins of time prior to sleep meditating and being in solitude. Well it literally took no effort and I have been able to practice it everyday. I will be honest that it is very difficult to keep one's mind focussed for a long period and it takes perseverance to achieve that. It's the reason I chose to meditate at night before going to bed as I find it the appropriate time to be mindful. I plan to expand my time as I get more habituated with it. 
 
