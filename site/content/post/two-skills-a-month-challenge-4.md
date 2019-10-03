@@ -1,5 +1,5 @@
 ---
-title: "Two Skills a Month Challenge 4 - Open source contribution habit and learning the basics of NodeJS"
+title: "Developing open source contribution habit and learning the basics of NodeJS"
 description: This month I have taken both challenges related to software development, the aim being to upgrade some skills and engaging more with the development community.
 lastmod: 2019-10-02T17:50:50+05:30
 date: 2019-10-02T17:50:50+05:30
