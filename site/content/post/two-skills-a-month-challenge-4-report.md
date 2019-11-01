@@ -28,11 +28,11 @@ I hope to get my t-shirt soon 😄. This was indeed a fun way to enter into the 
 
 This is where things went slightly out of track. Initially I started practicing the tutorials from [NodeSchool](https://nodeschool.io) which were quite good. However, I became stuck with some advanced level challenges and stopped attempting them later. This eventually led to boredom and made me switch to other video based lessons. Though I was of the impression that I was able to understand everything, when I tried creating practical projects, I was not able to connect the dots. I will be aiming to go though the basics again during my idle time the upcoming month and try creating a practical project as well.
 
-It seemed like a very ordinary month to me with in terms of acquiring new skills until I happened to read a phenomenal book - [The spirit of Kaizen - Robert Maurer](https://amzn.to/2Ns2kyt). The word **Kaizen** is a Japanese business philosophy of continuous improvement of working practices, personal efficiency, etc.
+It seemed like a very ordinary month to me in terms of acquiring new skills until I happened to read a phenomenal book - [The spirit of Kaizen - Robert Maurer](https://amzn.to/2Ns2kyt). The word **Kaizen** is a Japanese business philosophy of continuous improvement of working practices, personal efficiency, etc.
 
 The author shows with great examples how people and companies have achieved great things not by setting up huge targets and goals but by taking one small step at a time. It has given me a new perspective towards setting goals and targets. I try to break my daily tasks into very small chunks and try to accomplish them instead of thinking of completing the entire task as a whole. For example, on days when I feel lethargic to hit the gym, I just aim to wear my gym clothes and soon after I find myself in the gym like magic.
 
-To make my challenges more focussed and productive, I have decided to take up only one specific challenge a month instead of two to avoid juggling between tasks and staying more emphasis on a specific goal. If things go well, I plan to make videos about things that interests me in the upcoming months so that I am able to share and communicate in a better way with you.
+To make my challenges more focussed and productive, I have decided to take up only one specific challenge a month instead of two to avoid juggling between tasks and staying more focussed on a specific goal. If things go well, I plan to make videos about things that interests me in the upcoming months so that I am able to share and communicate in a better way with you.
 
 ## Books that I read this month
 
