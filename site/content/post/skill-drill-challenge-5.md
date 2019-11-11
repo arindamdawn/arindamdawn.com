@@ -17,7 +17,7 @@ This is the 5th straight month for taking up new unexplored things that belongs 
 
 **What is a caricature?**
 
-Caricature is a form of art. The goal of caricature is not to make someone ugly. It is purely intended to exaggerated a person or an object's features and characteristics that makes them different and special from others and make them humorous.
+Caricature is a form of art. The goal of caricature is not to make someone ugly. It is purely intended to exaggerate a person or an object's features and characteristics that makes them different and special from others and make them humorous.
 
 We often see caricatures in articles, newspapers, magazines and across internet to convey stories and emotions in a fun or satirical way.
 
@@ -28,7 +28,7 @@ Anyone with little or no experience in drawing can start drawing caricatures. Th
 **Resources that I am using**
 
 To learn caricature, learning the fundamental techniques is important.
-I personally love the youtube channel [Proko](https://www.youtube.com/user/ProkoTV). They tutorials are just awesome and very detailed and funny.
+I personally love the youtube channel [Proko](https://www.youtube.com/user/ProkoTV). The tutorials are just awesome and very detailed and funny.
 
 For learning caricatures, I will be taking help from a playlist of 51 videos which can be found [here](https://www.youtube.com/watch?v=FOURPIkpPXk&list=PLtG4P3lq8RHEkeRGn6aFRct0kq4oDwwTa). According to me, these are one of the best resources to learn the fundamentals. The instructor of these videos, [Court Jones](https://www.courtjones.com/) is a very renowned caricature artist with over 15 years of experience.
 
@@ -38,7 +38,7 @@ I found another [article](https://scroll.in/magazine/851628/an-indian-artist-exp
 
 {{<figure src= "https://www.creativegaga.com/wp-content/uploads/2017/09/Virat-kohli-letest.jpg" caption= "Virat Kohli. Courtesy: Hindustan Times Group" class="tc">}}
 
-I never tried drawing caricatures before and was more into portrait sketching. So it will be a good add-on to be able to caricature someone with likeable resemblance. In future, I would also love to try digitally draw and render the drawings.
+I never tried drawing caricatures before and was more into portrait sketching. So it will be a good add-on to be able to caricature someone with likeable resemblance. In future, I would also love to try digital drawing and rendering once I am comfortable with the traditional analog approach of pen/pencil and paper.
 
 **Books that I am reading this month**
 
