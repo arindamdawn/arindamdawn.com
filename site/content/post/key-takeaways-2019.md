@@ -37,4 +37,4 @@ I wish you all Merry Christmas and a very happy and prosperous new year well in 
 
 {{<figure src= "https://media.giphy.com/media/g0QET2Iejaa4EQ0eBV/giphy.gif" caption= "New Year Wishes" class="tc">}}
 
-{{<figure src= "https://media.giphy.com/media/6NVOQr1I5H1MA/giphy.mp4" caption= "Fact" class="tc">}}
+{{<figure src= "https://media.giphy.com/media/6NVOQr1I5H1MA/giphy.gif" caption= "Fact" class="tc">}}
